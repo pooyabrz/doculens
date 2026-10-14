@@ -1,0 +1,12 @@
+[
+  {"question": "مرخصی سالانه چند روز است؟", "expected_quote": "۲۴ روز مرخصی", "language": "fa"},
+  {"question": "دورکاری چند روز در هفته مجاز است؟", "expected_quote": "سه روز در هفته دورکاری", "language": "fa"},
+  {"question": "سقف خرید تجهیزات چقدر است؟", "expected_quote": "۳۰۰ دلار", "language": "fa"},
+  {"question": "ساعت همکاری تیم چیست؟", "expected_quote": "۱۰ صبح تا ۳ بعدازظهر", "language": "fa"},
+  {"question": "How many annual leave days are available?", "expected_quote": "24 days of paid annual leave", "language": "en"},
+  {"question": "What is the equipment reimbursement limit?", "expected_quote": "300 USD", "language": "en"},
+  {"question": "When is the initial internal support response due?", "expected_quote": "two working days", "language": "en"},
+  {"question": "quantum spaceship propulsion", "expected_quote": null, "language": "en"},
+  {"question": "dinosaur fossil excavation", "expected_quote": null, "language": "en"},
+  {"question": "ماهواره مدار زمین", "expected_quote": null, "language": "fa"}
+]
